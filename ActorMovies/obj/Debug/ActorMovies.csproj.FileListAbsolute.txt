@@ -1,6 +1,0 @@
-F:\Company\Analysis\ActorMovies\bin\Debug\ActorMovies.exe.config
-F:\Company\Analysis\ActorMovies\bin\Debug\ActorMovies.exe
-F:\Company\Analysis\ActorMovies\bin\Debug\ActorMovies.pdb
-F:\Company\Analysis\ActorMovies\obj\Debug\ActorMovies.csprojAssemblyReference.cache
-F:\Company\Analysis\ActorMovies\obj\Debug\ActorMovies.exe
-F:\Company\Analysis\ActorMovies\obj\Debug\ActorMovies.pdb
